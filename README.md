@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 Open Case Studies: Mental Health of American Youth
@@ -370,3 +371,6 @@ chi-square tests to evaluate how groups compare over time.
 This compilation time was measured on a PC machine operating on Windows
 10. This range should only be used as an estimate as compilation time
 will vary with different machines and operating systems.
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7XLS1QLQ)
+>>>>>>> d5cc72bf48a4359194cf5ccfd2f466905b6a28db
